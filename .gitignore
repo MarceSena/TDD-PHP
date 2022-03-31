@@ -1,0 +1,4 @@
+vendor 
+.editorconfig
+docker-compose.yml
+Dockerfile
