@@ -2,10 +2,7 @@
 
 namespace CDC\Loja\RH;
 
-require "./vendor/autoload.php";
-
-
-use PHPUnit\Framework\TestCase;
+use CDC\Loja\Test\TestCase;
 use CDC\Loja\RH\Funcionario,
     CDC\Loja\RH\TabelaCargos,
     CDC\Loja\RH\CalculadoraDeSalario;
