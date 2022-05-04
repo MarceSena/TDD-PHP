@@ -8,7 +8,7 @@ use ArrayObject;
 class CarrinhoDeCompras 
 {
 
-  private $produto;
+  private $produtos;
 
   public function __construct()
   {

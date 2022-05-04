@@ -21,7 +21,7 @@ class Produto
         return $this->nome;
     }
 
-    function getvalorUnitario()
+    function getValorUnitario()
     {
         return $this->valorUnitario;
     }
